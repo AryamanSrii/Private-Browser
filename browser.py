@@ -50,6 +50,6 @@ class MainWindow(QMainWindow):
 
 
 app = QApplication(sys.argv)
-QApplication.setApplicationName('Srivastava's Browser')
+QApplication.setApplicationName('Private Browser')
 window = MainWindow()
 app.exec_()
